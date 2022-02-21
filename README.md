@@ -25,3 +25,6 @@ Although everyone was new with the technology and the 3D idea, we manage to work
 
 ## What's next for CycleVR 🚧
 - Next step for CycleVR is to add new components so that the virtual environment more realistic. We will try to improve our oscillation algorithm for the Joystick to enhance User Experience.
+
+## Video Demo
+https://youtu.be/0ZyBEswHsYY
